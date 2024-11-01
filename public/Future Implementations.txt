@@ -1,0 +1,3 @@
+Future Implementations:
+1)Integrate All the data when it was exsisted etc
+2)Add ML concept for integrating image capturing
